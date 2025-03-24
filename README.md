@@ -8,4 +8,4 @@ This repository contains the implementation of the labs from the **Intensive Cod
 
 ### Lab Details:
 
-- **Lab 1**: Deploy Apache Web Server on AWS using Terraform
+- **Day 1**: Deploy Apache Web Server on AWS using Terraform
