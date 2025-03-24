@@ -14,6 +14,14 @@ The following resources are provisioned:
 - **Security Group** allowing HTTP (80) and SSH (22) traffic.
 - **EC2 Instance** running Apache.
 
+## Prerequisites
+
+Ensure you have the following installed before running Terraform:
+
+- **Terraform CLI** (v1.0+ recommended)
+- **AWS CLI**
+
+
 ## Deployment Steps
 
 - Clone the repository:
